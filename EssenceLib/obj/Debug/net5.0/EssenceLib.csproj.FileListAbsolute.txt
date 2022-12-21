@@ -1,0 +1,12 @@
+D:\EwgenUgl\C#\CSLerning5\EssenceLib\bin\Debug\net5.0\EssenceLib.deps.json
+D:\EwgenUgl\C#\CSLerning5\EssenceLib\bin\Debug\net5.0\EssenceLib.dll
+D:\EwgenUgl\C#\CSLerning5\EssenceLib\bin\Debug\net5.0\ref\EssenceLib.dll
+D:\EwgenUgl\C#\CSLerning5\EssenceLib\bin\Debug\net5.0\EssenceLib.pdb
+D:\EwgenUgl\C#\CSLerning5\EssenceLib\obj\Debug\net5.0\EssenceLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\EwgenUgl\C#\CSLerning5\EssenceLib\obj\Debug\net5.0\EssenceLib.AssemblyInfoInputs.cache
+D:\EwgenUgl\C#\CSLerning5\EssenceLib\obj\Debug\net5.0\EssenceLib.AssemblyInfo.cs
+D:\EwgenUgl\C#\CSLerning5\EssenceLib\obj\Debug\net5.0\EssenceLib.csproj.CoreCompileInputs.cache
+D:\EwgenUgl\C#\CSLerning5\EssenceLib\obj\Debug\net5.0\EssenceLib.dll
+D:\EwgenUgl\C#\CSLerning5\EssenceLib\obj\Debug\net5.0\ref\EssenceLib.dll
+D:\EwgenUgl\C#\CSLerning5\EssenceLib\obj\Debug\net5.0\EssenceLib.pdb
+D:\EwgenUgl\C#\CSLerning5\EssenceLib\obj\Debug\net5.0\EssenceLib.csproj.AssemblyReference.cache
