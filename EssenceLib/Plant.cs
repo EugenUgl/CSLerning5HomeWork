@@ -10,12 +10,12 @@ namespace EssenceLib
         /// <summary>
         /// Высота растения (поле)
         /// </summary>
-        private int heigth;
+        private int growth;
 
         /// <summary>
         /// Высота растения (свойство)
         /// </summary>
-        public int Heigth { get => heigth; set => heigth = value; }
+        public int Growth { get => growth; set => growth = value; }
                 
         /// <summary>
         /// Конструктор по умолчанию
@@ -34,7 +34,7 @@ namespace EssenceLib
         public Plant(int heigth, string name) : base(name)
         {
             type = nameof(Plant);
-            Heigth = heigth;
+            Growth = heigth;
         }
 
 
@@ -45,7 +45,7 @@ namespace EssenceLib
         {
             Console.WriteLine($"{nameof(type)}: {type}");
             base.ShowSpecifications();
-            Console.WriteLine($"{nameof(Heigth)}: {Heigth} sm");
+            Console.WriteLine($"{nameof(Growth)}: {Growth} sm");
             Console.WriteLine($"");
         }
     }

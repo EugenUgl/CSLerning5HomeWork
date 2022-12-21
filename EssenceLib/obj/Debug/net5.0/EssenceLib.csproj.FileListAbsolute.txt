@@ -10,3 +10,15 @@ D:\EwgenUgl\C#\CSLerning5\EssenceLib\obj\Debug\net5.0\EssenceLib.dll
 D:\EwgenUgl\C#\CSLerning5\EssenceLib\obj\Debug\net5.0\ref\EssenceLib.dll
 D:\EwgenUgl\C#\CSLerning5\EssenceLib\obj\Debug\net5.0\EssenceLib.pdb
 D:\EwgenUgl\C#\CSLerning5\EssenceLib\obj\Debug\net5.0\EssenceLib.csproj.AssemblyReference.cache
+C:\Users\Eugen\MyProgramm\C# Projects\CSLerning5\CSLerning5HomeWork\EssenceLib\bin\Debug\net5.0\EssenceLib.deps.json
+C:\Users\Eugen\MyProgramm\C# Projects\CSLerning5\CSLerning5HomeWork\EssenceLib\bin\Debug\net5.0\EssenceLib.dll
+C:\Users\Eugen\MyProgramm\C# Projects\CSLerning5\CSLerning5HomeWork\EssenceLib\bin\Debug\net5.0\EssenceLib.pdb
+C:\Users\Eugen\MyProgramm\C# Projects\CSLerning5\CSLerning5HomeWork\EssenceLib\obj\Debug\net5.0\EssenceLib.csproj.AssemblyReference.cache
+C:\Users\Eugen\MyProgramm\C# Projects\CSLerning5\CSLerning5HomeWork\EssenceLib\obj\Debug\net5.0\EssenceLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eugen\MyProgramm\C# Projects\CSLerning5\CSLerning5HomeWork\EssenceLib\obj\Debug\net5.0\EssenceLib.AssemblyInfoInputs.cache
+C:\Users\Eugen\MyProgramm\C# Projects\CSLerning5\CSLerning5HomeWork\EssenceLib\obj\Debug\net5.0\EssenceLib.AssemblyInfo.cs
+C:\Users\Eugen\MyProgramm\C# Projects\CSLerning5\CSLerning5HomeWork\EssenceLib\obj\Debug\net5.0\EssenceLib.csproj.CoreCompileInputs.cache
+C:\Users\Eugen\MyProgramm\C# Projects\CSLerning5\CSLerning5HomeWork\EssenceLib\obj\Debug\net5.0\EssenceLib.dll
+C:\Users\Eugen\MyProgramm\C# Projects\CSLerning5\CSLerning5HomeWork\EssenceLib\obj\Debug\net5.0\refint\EssenceLib.dll
+C:\Users\Eugen\MyProgramm\C# Projects\CSLerning5\CSLerning5HomeWork\EssenceLib\obj\Debug\net5.0\EssenceLib.pdb
+C:\Users\Eugen\MyProgramm\C# Projects\CSLerning5\CSLerning5HomeWork\EssenceLib\obj\Debug\net5.0\ref\EssenceLib.dll

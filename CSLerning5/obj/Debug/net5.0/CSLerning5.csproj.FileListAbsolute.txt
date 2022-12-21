@@ -33,3 +33,22 @@ D:\EwgenUgl\C#\CSLerning5\CSLerning5\obj\Debug\net5.0\CSLerning5.genruntimeconfi
 D:\EwgenUgl\C#\CSLerning5\CSLerning5\bin\Debug\net5.0\EssenceLib.dll
 D:\EwgenUgl\C#\CSLerning5\CSLerning5\bin\Debug\net5.0\EssenceLib.pdb
 D:\EwgenUgl\C#\CSLerning5\CSLerning5\obj\Debug\net5.0\CSLerning5.csproj.CopyComplete
+C:\Users\Eugen\MyProgramm\C# Projects\CSLerning5\CSLerning5HomeWork\CSLerning5\bin\Debug\net5.0\CSLerning5.exe
+C:\Users\Eugen\MyProgramm\C# Projects\CSLerning5\CSLerning5HomeWork\CSLerning5\bin\Debug\net5.0\CSLerning5.deps.json
+C:\Users\Eugen\MyProgramm\C# Projects\CSLerning5\CSLerning5HomeWork\CSLerning5\bin\Debug\net5.0\CSLerning5.runtimeconfig.json
+C:\Users\Eugen\MyProgramm\C# Projects\CSLerning5\CSLerning5HomeWork\CSLerning5\bin\Debug\net5.0\CSLerning5.runtimeconfig.dev.json
+C:\Users\Eugen\MyProgramm\C# Projects\CSLerning5\CSLerning5HomeWork\CSLerning5\bin\Debug\net5.0\CSLerning5.dll
+C:\Users\Eugen\MyProgramm\C# Projects\CSLerning5\CSLerning5HomeWork\CSLerning5\bin\Debug\net5.0\CSLerning5.pdb
+C:\Users\Eugen\MyProgramm\C# Projects\CSLerning5\CSLerning5HomeWork\CSLerning5\bin\Debug\net5.0\EssenceLib.dll
+C:\Users\Eugen\MyProgramm\C# Projects\CSLerning5\CSLerning5HomeWork\CSLerning5\bin\Debug\net5.0\EssenceLib.pdb
+C:\Users\Eugen\MyProgramm\C# Projects\CSLerning5\CSLerning5HomeWork\CSLerning5\obj\Debug\net5.0\CSLerning5.csproj.AssemblyReference.cache
+C:\Users\Eugen\MyProgramm\C# Projects\CSLerning5\CSLerning5HomeWork\CSLerning5\obj\Debug\net5.0\CSLerning5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eugen\MyProgramm\C# Projects\CSLerning5\CSLerning5HomeWork\CSLerning5\obj\Debug\net5.0\CSLerning5.AssemblyInfoInputs.cache
+C:\Users\Eugen\MyProgramm\C# Projects\CSLerning5\CSLerning5HomeWork\CSLerning5\obj\Debug\net5.0\CSLerning5.AssemblyInfo.cs
+C:\Users\Eugen\MyProgramm\C# Projects\CSLerning5\CSLerning5HomeWork\CSLerning5\obj\Debug\net5.0\CSLerning5.csproj.CoreCompileInputs.cache
+C:\Users\Eugen\MyProgramm\C# Projects\CSLerning5\CSLerning5HomeWork\CSLerning5\obj\Debug\net5.0\CSLerning5.csproj.CopyComplete
+C:\Users\Eugen\MyProgramm\C# Projects\CSLerning5\CSLerning5HomeWork\CSLerning5\obj\Debug\net5.0\CSLerning5.dll
+C:\Users\Eugen\MyProgramm\C# Projects\CSLerning5\CSLerning5HomeWork\CSLerning5\obj\Debug\net5.0\refint\CSLerning5.dll
+C:\Users\Eugen\MyProgramm\C# Projects\CSLerning5\CSLerning5HomeWork\CSLerning5\obj\Debug\net5.0\CSLerning5.pdb
+C:\Users\Eugen\MyProgramm\C# Projects\CSLerning5\CSLerning5HomeWork\CSLerning5\obj\Debug\net5.0\CSLerning5.genruntimeconfig.cache
+C:\Users\Eugen\MyProgramm\C# Projects\CSLerning5\CSLerning5HomeWork\CSLerning5\obj\Debug\net5.0\ref\CSLerning5.dll
