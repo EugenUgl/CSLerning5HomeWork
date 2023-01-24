@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Eugen\\MyProgramm\\C# Projects\\CSLerning5\\CSLerning5HomeWork\\EssenceLib\\EssenceLib.csproj": {}
+    "C:\\Users\\Eugen\\MyProgramm\\C# Projects\\CSLerning5\\CSLerning5HomeWork\\EssenceLib\\Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Eugen\\MyProgramm\\C# Projects\\CSLerning5\\CSLerning5HomeWork\\EssenceLib\\EssenceLib.csproj": {
+    "C:\\Users\\Eugen\\MyProgramm\\C# Projects\\CSLerning5\\CSLerning5HomeWork\\EssenceLib\\Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Eugen\\MyProgramm\\C# Projects\\CSLerning5\\CSLerning5HomeWork\\EssenceLib\\EssenceLib.csproj",
-        "projectName": "EssenceLib",
-        "projectPath": "C:\\Users\\Eugen\\MyProgramm\\C# Projects\\CSLerning5\\CSLerning5HomeWork\\EssenceLib\\EssenceLib.csproj",
+        "projectUniqueName": "C:\\Users\\Eugen\\MyProgramm\\C# Projects\\CSLerning5\\CSLerning5HomeWork\\EssenceLib\\Models.csproj",
+        "projectName": "Models",
+        "projectPath": "C:\\Users\\Eugen\\MyProgramm\\C# Projects\\CSLerning5\\CSLerning5HomeWork\\EssenceLib\\Models.csproj",
         "packagesPath": "C:\\Users\\Eugen\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Eugen\\MyProgramm\\C# Projects\\CSLerning5\\CSLerning5HomeWork\\EssenceLib\\obj\\",
         "projectStyle": "PackageReference",
